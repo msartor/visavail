@@ -144,3 +144,7 @@ I am happy about any contribution or feedback. Please let me know about your com
 License
 -------
 The Visavail.js library is distributed under the [MIT License (MIT)](https://github.com/flrs/visavail/blob/master/LICENSE.md). Please also take note of the licenses of the dependencies.
+
+## Bower 
+
+`bower install visavail`

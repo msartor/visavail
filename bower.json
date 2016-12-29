@@ -1,8 +1,7 @@
 {
   "name": "visavail",
   "authors": [
-    "Florian Roscheck",
-    "William Sartor"
+    "Florian Roscheck"
   ],
   "description": "A Time Data Availability Chart",
   "main": [
