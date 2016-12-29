@@ -6,9 +6,7 @@
   "description": "A Time Data Availability Chart",
   "main": [
   	"main.js",
-  	"visavail/css/visavail.css",
-  	"vendors/font-awesome/css/font-awesome.min.css",
-  	"multi.css"
+  	"output.css"
   ],
   "dependencies": {
     "d3": "3.5.17",
